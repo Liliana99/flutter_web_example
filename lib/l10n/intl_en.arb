@@ -1,0 +1,15 @@
+{
+    
+        "simpleText": "Hello",
+        "workoutText": "Workout",
+        "meetskypeText": "Meet skype Been",
+        "othertaskText": "Other tasks",
+        "hometaskText": "Home Tasks",
+        "buymilktaskText": "Buy milk",
+        "listText": "List",
+        "workText": "Work",
+        "personalText": "Personal",
+        "language": "Language",
+        "systemLanguage": "System language"
+    
+}
