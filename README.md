@@ -11,20 +11,15 @@ The objective of this flutter application about asynchronous programming in Dart
 
 ## cupertino_icons
 ## flutter_launcher_icons
-
 ## flutter_localized_locales
-
 ## flutter_neumorphic
-
 ## flutter_bloc
-
 ## equatable
-
 ## animated_text_kit
 ## shared_preferences
 ## auto_size_text
 
-
+![Output sample](work_web.png)
 
 ![Output sample](work_both_devices_35.png)
 
