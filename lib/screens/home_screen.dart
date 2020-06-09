@@ -348,24 +348,7 @@ class HomeScreen extends StatelessWidget {
                   ],
                 ),
                 
-                Padding(
-                  padding: EdgeInsets.only(top: 10, bottom: 120),
-                  child: NeumorphicButton(
-                   
-                    boxShape: NeumorphicBoxShape.circle(),
-                    child: Center(
-                      child: Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: IconButton(
-                            icon: Icon(
-                              Icons.add,
-                              size: 40,
-                            ),
-                            onPressed: () {}),
-                      ),
-                    ),
-                  ),
-                ),
+                
               ],
             ),
           ),
